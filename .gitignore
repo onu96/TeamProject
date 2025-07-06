@@ -1,0 +1,15 @@
+# 빌드 폴더 (컴파일 결과물)
+bin/
+
+# Eclipse 설정 파일
+.classpath
+.project
+.settings/
+
+# OS 시스템 파일 (Windows, macOS 등)
+Thumbs.db
+.DS_Store
+
+# 로그나 임시 파일
+*.log
+*.tmp
