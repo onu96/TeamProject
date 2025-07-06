@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("프로젝트에 Git을 도입했습니다.");
 		System.out.println("커밋 테스트 중입니다.");
+		System.out.println("환영합니다! Git 브랜치 연습 중입니다.");
 	}
 
 }
